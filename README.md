@@ -3,6 +3,11 @@
 
 I'm a data scientist and software engineer who likes to solve complex problems using technology solutions. I have just graduated from Carnegie Mellon University as a Master's student in Information Systems Management. Coupled with my fast-learning skills, I hope to explore deeper insight and mechanisms into human habits and business processes, as well as contributing my creative flair to the community.
 
+# ⚡ GitHub Stats
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imychangemaker" alt="GitHub Stats" />
+  </p>
+
 # 🌱 I’m currently working on
 - Building my own personal website
 - Creating content and sharing my experience

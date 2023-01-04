@@ -9,7 +9,7 @@ I'm a data scientist and software engineer who likes to solve complex problems u
   </p>
 
 # 🌱 I’m currently working on
-- Building my own personal website
+- Building my own [personal website](https://imychangemaker.github.io/)
 - Creating content and sharing my experience
 - Advocating for women in the technology industry
 
